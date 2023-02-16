@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on how to become richer, You know why 😎 🤑.
+- 🔭 I’m currently working on how to become richer and go to mars, You know why 😎 🤑.
 - 🌱 I’m currently learning C++, may fall by the wayside.
 - 🥷🏻 I’m looking to collaborate with every funny folk.
 - 🤔 I’m looking for help with how to introduce myself.
