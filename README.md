@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I am currently living in China, but I am looking for job opportunities abroad. 
+#### If your company is hiring and can provide a work visa, please contact me. Thank you.
+
 - 🔭 I’m currently working on how to become richer and go to mars, You know why 😎 🤑.
 - 🌱 I’m currently learning C++, may fall by the wayside.
 - 🥷🏻 I’m looking to collaborate with every funny folk.
