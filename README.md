@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am currently living in China, but I am looking for job opportunities abroad.     
-If your company is hiring and can provide a work visa, please contact me ( i@raymondjiang.net ).     
-Thank you.     
+#### I am currently living in China, but I am looking for job opportunities abroad.     
+#### If your company is hiring and can provide a work visa, please contact me ( i@raymondjiang.net ).     
+#### Thank you.     
 
 - 🔭 I’m currently working on how to become richer and go to mars, You know why 😎 🤑.
 - 🌱 I’m currently learning C++, may fall by the wayside.
